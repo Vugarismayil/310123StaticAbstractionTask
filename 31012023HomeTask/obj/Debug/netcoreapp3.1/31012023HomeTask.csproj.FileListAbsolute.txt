@@ -1,0 +1,14 @@
+C:\Users\ivuqa\source\repos\31012023HomeTask\31012023HomeTask\bin\Debug\netcoreapp3.1\31012023HomeTask.exe
+C:\Users\ivuqa\source\repos\31012023HomeTask\31012023HomeTask\bin\Debug\netcoreapp3.1\31012023HomeTask.deps.json
+C:\Users\ivuqa\source\repos\31012023HomeTask\31012023HomeTask\bin\Debug\netcoreapp3.1\31012023HomeTask.runtimeconfig.json
+C:\Users\ivuqa\source\repos\31012023HomeTask\31012023HomeTask\bin\Debug\netcoreapp3.1\31012023HomeTask.runtimeconfig.dev.json
+C:\Users\ivuqa\source\repos\31012023HomeTask\31012023HomeTask\bin\Debug\netcoreapp3.1\31012023HomeTask.dll
+C:\Users\ivuqa\source\repos\31012023HomeTask\31012023HomeTask\bin\Debug\netcoreapp3.1\31012023HomeTask.pdb
+C:\Users\ivuqa\source\repos\31012023HomeTask\31012023HomeTask\obj\Debug\netcoreapp3.1\31012023HomeTask.csproj.AssemblyReference.cache
+C:\Users\ivuqa\source\repos\31012023HomeTask\31012023HomeTask\obj\Debug\netcoreapp3.1\31012023HomeTask.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ivuqa\source\repos\31012023HomeTask\31012023HomeTask\obj\Debug\netcoreapp3.1\31012023HomeTask.AssemblyInfoInputs.cache
+C:\Users\ivuqa\source\repos\31012023HomeTask\31012023HomeTask\obj\Debug\netcoreapp3.1\31012023HomeTask.AssemblyInfo.cs
+C:\Users\ivuqa\source\repos\31012023HomeTask\31012023HomeTask\obj\Debug\netcoreapp3.1\31012023HomeTask.csproj.CoreCompileInputs.cache
+C:\Users\ivuqa\source\repos\31012023HomeTask\31012023HomeTask\obj\Debug\netcoreapp3.1\31012023HomeTask.dll
+C:\Users\ivuqa\source\repos\31012023HomeTask\31012023HomeTask\obj\Debug\netcoreapp3.1\31012023HomeTask.pdb
+C:\Users\ivuqa\source\repos\31012023HomeTask\31012023HomeTask\obj\Debug\netcoreapp3.1\31012023HomeTask.genruntimeconfig.cache
